@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-AnuheaViewTool::Renderer.copyright 'Anuhea Moors', 'All rights reserved'
+DevcampViewTool::Renderer.copyright 'Anuhea Moors', 'All rights reserved'
 ```
 
 ## Development
